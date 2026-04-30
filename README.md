@@ -403,6 +403,11 @@ stateDiagram-v2
 > 此视频展示了预设参数版的**部分操作流程**：**通过交互框选ROI，实现批量图片的自动化处理**。
 
 
+
+https://github.com/user-attachments/assets/bbac7d7d-2303-45d2-a60a-cccf3cf8a784
+
+
+
 </details>
 
 <br/>
@@ -413,6 +418,11 @@ stateDiagram-v2
 <br/>
 
 > 此视频展示了交互增强版的**部分操作流程**，包括**鼠标框选ROI、**键盘数字键选择放大区域位置、实时调整放大区域大小（仅限角落位置）等交互细节**。
+
+
+
+https://github.com/user-attachments/assets/7b2a34cd-f456-46aa-877e-ddf03bb90d39
+
 
 
 </details>
